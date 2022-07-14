@@ -1,5 +1,5 @@
 # Toxic-Comment-Classification
-This project is the sub-project of my other project (reviewmyprofessors.com), where I need to eliminate the toxic comments by users. 
+This project is the sub-project of my other project, where I need to eliminate the toxic comments by users. 
 
 ## Background
 
